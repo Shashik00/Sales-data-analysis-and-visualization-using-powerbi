@@ -25,12 +25,12 @@ Designed with a clean, intuitive layout and filterable drill-downs, the dashboar
 🔄 Methodology
 
 1. Data Preparation
-2. 
+
 •	Loaded raw sales data containing metrics like gross sales, discounts, units sold, and cost per unit.
 
 •	Performed basic cleaning to handle missing regions or invalid numeric values.
 
-4. KPI Modeling (DAX)
+2. KPI Modeling (DAX)
 
 Calculated key metrics such as:
 
@@ -42,7 +42,7 @@ Calculated key metrics such as:
 
 •	Gross Margin % = (Net Sales - Cost) / Net Sales
 
-5. Interactive Dashboard Pages
+3. Interactive Dashboard Pages
 
 🔹 Sales KPIs Overview
 
